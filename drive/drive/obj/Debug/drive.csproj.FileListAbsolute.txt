@@ -1,0 +1,10 @@
+C:\Users\yusuf\source\repos\drive\drive\obj\Debug\drive.csprojAssemblyReference.cache
+C:\Users\yusuf\source\repos\drive\drive\obj\Debug\RacingGame.Form1.resources
+C:\Users\yusuf\source\repos\drive\drive\obj\Debug\drive.Properties.Resources.resources
+C:\Users\yusuf\source\repos\drive\drive\obj\Debug\drive.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\drive\drive\obj\Debug\drive.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\drive\drive\bin\Debug\drive.exe.config
+C:\Users\yusuf\source\repos\drive\drive\bin\Debug\drive.exe
+C:\Users\yusuf\source\repos\drive\drive\bin\Debug\drive.pdb
+C:\Users\yusuf\source\repos\drive\drive\obj\Debug\drive.exe
+C:\Users\yusuf\source\repos\drive\drive\obj\Debug\drive.pdb

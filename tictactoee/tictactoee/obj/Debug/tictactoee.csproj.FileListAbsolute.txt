@@ -1,0 +1,11 @@
+C:\Users\yusuf\source\repos\tictactoee\tictactoee\obj\Debug\tictactoee.csprojAssemblyReference.cache
+C:\Users\yusuf\source\repos\tictactoee\tictactoee\obj\Debug\TicTacToe.Form1.resources
+C:\Users\yusuf\source\repos\tictactoee\tictactoee\obj\Debug\tictactoee.Properties.Resources.resources
+C:\Users\yusuf\source\repos\tictactoee\tictactoee\obj\Debug\tictactoee.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\tictactoee\tictactoee\obj\Debug\tictactoee.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\tictactoee\tictactoee\bin\Debug\tictactoee.exe.config
+C:\Users\yusuf\source\repos\tictactoee\tictactoee\bin\Debug\tictactoee.exe
+C:\Users\yusuf\source\repos\tictactoee\tictactoee\bin\Debug\tictactoee.pdb
+C:\Users\yusuf\source\repos\tictactoee\tictactoee\obj\Debug\TicTacToe.GameForm.resources
+C:\Users\yusuf\source\repos\tictactoee\tictactoee\obj\Debug\tictactoee.exe
+C:\Users\yusuf\source\repos\tictactoee\tictactoee\obj\Debug\tictactoee.pdb
