@@ -1,0 +1,10 @@
+C:\Users\yusuf\source\repos\birds\birds\bin\Debug\birds.exe.config
+C:\Users\yusuf\source\repos\birds\birds\bin\Debug\birds.exe
+C:\Users\yusuf\source\repos\birds\birds\bin\Debug\birds.pdb
+C:\Users\yusuf\source\repos\birds\birds\obj\Debug\birds.csprojAssemblyReference.cache
+C:\Users\yusuf\source\repos\birds\birds\obj\Debug\birds.Form1.resources
+C:\Users\yusuf\source\repos\birds\birds\obj\Debug\birds.Properties.Resources.resources
+C:\Users\yusuf\source\repos\birds\birds\obj\Debug\birds.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\birds\birds\obj\Debug\birds.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\birds\birds\obj\Debug\birds.exe
+C:\Users\yusuf\source\repos\birds\birds\obj\Debug\birds.pdb
